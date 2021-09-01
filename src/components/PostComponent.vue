@@ -8,7 +8,6 @@
     <div class="button-div"  >
       <button @click="moreInfo">More info</button>
     </div>
-
   </div>
 </template>
 
@@ -65,7 +64,6 @@ h2 {
   display: flex;
   justify-content: center;
   align-items: center;
-
 }
 
 h3, h4 {

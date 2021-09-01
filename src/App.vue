@@ -36,8 +36,6 @@ body {
   color: #2c3e50;
 }
 
-
-
 .container {
   display: flex;
   margin: 0 auto;

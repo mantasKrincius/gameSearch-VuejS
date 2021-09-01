@@ -11,7 +11,6 @@
 </template>
 
 <script>
-
 import PostComponent from "@/components/PostComponent";
 import Pagination from "@/components/Pagination";
 
